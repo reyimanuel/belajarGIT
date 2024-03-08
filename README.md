@@ -11,7 +11,7 @@ Daftar tugas / branch
 Daftar perintah GiT
 
 Langkah 4: git branch Tugas-git
-Langkah 5: git checkout Tugas - git (kemudian tambahkan file txt dalam repository tsb.)
+Langkah 5: git checkout Tugas-git (kemudian tambahkan file txt dalam repository tsb.)
 Langkah 6: Mengisi file Tugas-Git.txt secara bebas.
 Langkah 7: git add Tugas-Git.txt -> git status (mengecek kembali) -> git commit -m "Pesan"
 Langkah 8: git merge main / git merge --all
